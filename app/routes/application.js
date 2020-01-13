@@ -1,11 +1,11 @@
 import Route from "@ember/routing/route";
 
 export default Route.extend({
-  // queryParams: {
-  //   quux: {
-  //     refreshModel: true
-  //   }
-  // },
+  queryParams: {
+    quux: {
+      refreshModel: true
+    }
+  },
 
   beforeModel() {
     this._super(...arguments);
