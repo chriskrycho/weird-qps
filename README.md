@@ -1,7 +1,10 @@
+<h2 align="center">:red_square: Archived :red_square:</h2>
+
+<p align="center"><em>This is statically archived for reference for anyone who needs it when working on the Ember Router.</em></p>
+
 # test-transition-to
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Shows odd behavior with query params in `transitionTo` on Ember 3.8.
 
 ## Prerequisites
 
